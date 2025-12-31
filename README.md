@@ -1,6 +1,11 @@
 # xlsxslim
 
+[![PyPI version](https://badge.fury.io/py/xlsxslim.svg)](https://badge.fury.io/py/xlsxslim)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 **Reduce Excel file size by removing empty rows, columns, and excess formatting.**
+
+🇺🇦 [Документація українською](README_uk.md)
 
 v2.0.2 uses direct XML/regex manipulation — works with files of **any size** without memory issues.
 
